@@ -1,2 +1,4 @@
 # ghost-trading
-social capital allocation
+social capital allocation... Application lol
+
+
